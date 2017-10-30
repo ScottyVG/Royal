@@ -8,6 +8,7 @@ curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_initialize.scs
 ```
 ###### Curl Buttons
 ```
+<<<<<<< HEAD
 curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_buttons.scss >> _buttons.scss && @import "buttons"; >> _initialize.scss
 ```
 ###### Curl Flex-Box
@@ -17,4 +18,12 @@ curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_flex-box.scss 
 ###### Curl Grid
 ```
 curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_grid.scss >> _grid.scss && @import "grid"; >> _initialize.scss
+```
+###### Curl Flex-Box
+```
+curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_flex-box.scss >> _flex-box.scss
+```
+###### Curl Grid
+```
+curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_grid.scss >> _grid.scss
 ```
