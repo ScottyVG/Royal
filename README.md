@@ -4,7 +4,7 @@ Royal is a lightweight scss framework for building responsive web sites and apps
 
 ###### Curl Init
 ```
-curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_initialize.scss >> __initialize.scss
+curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_initialize.scss >> _initialize.scss
 ```
 ###### Curl Buttons
 ```
