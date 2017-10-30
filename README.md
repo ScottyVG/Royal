@@ -3,7 +3,7 @@
 Royal is an extremely lightweight scss framework for people who regularly write SCSS code and want to import files modularly.
 
 ### Curl Initialize
-Add the _initialize.scss to your sass directory. Use this file to store all of your import mappings and then add to it with any of the following Curl commands.
+Add the _initialize.scss to your sass directory. Use this file to as router for all of your imported files and then add scss files to it with any of the following Curl commands.
 ```
 curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_initialize.scss >> _initialize.scss
 ```
