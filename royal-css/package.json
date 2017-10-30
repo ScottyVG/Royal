@@ -1,0 +1,22 @@
+{
+  "name": "royal-css",
+  "version": "1.0.0",
+  "description": "Royal is a lightweight scss framework for building responsive web sites and apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottyVG/Royal.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Scott Van Gilder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottyVG/Royal/issues"
+  },
+  "homepage": "https://github.com/ScottyVG/Royal#readme"
+}
