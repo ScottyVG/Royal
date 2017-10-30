@@ -1,0 +1,55 @@
+/*
+========================================
+_buttons.scss
+========================================
+*/
+
+@mixin button-1 {
+    background-color: #0196c1;
+    color: #fff;
+    font-size: 1.25rem;
+    font-family: 'IM Fell DW Pica', times, serif;
+    font-weight: bold;
+    padding: 1rem 5.3rem;
+    margin: 2rem 1rem;
+    span {
+        letter-spacing: .1rem;
+    }
+    &:hover {
+        background-color: lighten(#0196c1, 10%);
+    }
+}
+
+
+@mixin button-2 {
+    background-color: #f59000;
+    color: #fff;
+    font-size: 1.25rem;
+    font-family: 'IM Fell DW Pica', times, serif;
+    font-weight: bold;
+    border: 2px solid #bd6f00;
+    padding: 1rem 5.3rem;
+    margin: 2rem 1rem;
+    span {
+        letter-spacing: .1rem;
+    }
+    &:hover {
+        background-color: lighten(#f59000, 10%);
+    }
+}
+
+@mixin button-3 {
+    background-color: #0196c1;
+    color: #fff;
+    font-size: 1.25rem;
+    font-family: 'IM Fell DW Pica', times, serif;
+    font-weight: bold;
+    padding: 1rem 1.3rem;
+    margin: 2rem 1rem;
+    span {
+        letter-spacing: .1rem;
+    }
+    &:hover {
+        background-color: lighten(#0196c1, 10%);
+    }
+}
