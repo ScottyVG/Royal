@@ -1,0 +1,8 @@
+@mixin display-grid {
+  display: -ms-grid;
+  display: grid;
+}
+
+.grid-parent {
+  @include display-grid;
+}
