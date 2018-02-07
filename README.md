@@ -29,5 +29,5 @@ curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_grid.scss >> _
 ### Curl CSS Grid
 Add the _css-grid.scss to your sass directory and import _grid.scss file into your _initialize.scss file
 ```
-curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_css-grid.scss >> _css-grid.scss && echo "@import \"grid\";" >> _initialize.scss
+curl https://raw.githubusercontent.com/ScottyVG/Royal/master/src/_css-grid.scss >> _css-grid.scss && echo "@import \"css-grid\";" >> _initialize.scss
 ```
